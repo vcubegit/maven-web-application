@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Welcome to HCL Technologicss</h2>
+<h2>Welcome to HCL Tech</h2>
 </body>
 </html>
